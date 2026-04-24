@@ -62,11 +62,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=thiagomarteleti&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarteleti&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=chartreuse-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=thiagomarteleti&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
@@ -84,7 +84,7 @@
 
 <h2>📈 Activity Graph</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0d1117&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagomarteleti&bg_color=0d1117&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true" />
 
 <hr>
 
@@ -147,6 +147,6 @@ SELECT 'DBA IS NOT A JOB, IT''S A MISSION';
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00ff9c&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=thiagomarteleti&color=00ff9c&style=for-the-badge" />
 
 </div>
