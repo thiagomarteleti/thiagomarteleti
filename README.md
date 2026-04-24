@@ -64,19 +64,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=thiagomarteleti&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarteleti&layout=compact&theme=chartreuse-dark&hide_border=true" />
-
-</div>
-
-<hr>
-
-<h2 align="center">🔥 Streak</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thiagomarteleti&theme=chartreuse-dark&hide_border=true" />
+<br>
 
 </div>
 
