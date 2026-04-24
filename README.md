@@ -135,7 +135,7 @@
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/thiago-marteleti/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
