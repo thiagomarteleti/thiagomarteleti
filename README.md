@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TERMINAL ANIMADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Thiago+Marteleti+Mello+Moreira;Database+Administrator;SQL+Server+%7C+PostgreSQL+%7C+Monitoring;Performance+Tuning+%7C+Automation;DBA+IS+NOT+A+JOB%2C+IT%27S+A+MISSION" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Thiago+Marteleti;Database+Administrator;SQL+Server+%7C+PostgreSQL+%7C+Monitoring;Performance+Tuning+%7C+Automation;DBA+IS+NOT+A+JOB%2C+IT%27S+A+MISSION" />
 
 <br><br>
 
@@ -92,6 +92,16 @@
 &gt; Gestão de clientes e equipamentos
 &gt; Geração de PDF
 &gt; Evoluindo para ASP.NET Core + PostgreSQL
+</pre>
+
+<h3>📌 KAN - Sistema de Gestão Kanban</h3>
+<pre>
+&gt; Plataforma de gerenciamento de projetos estilo Trello/Jira
+&gt; Controle visual de tarefas e fluxo de trabalho
+&gt; Backend em PHP (MVC)
+&gt; Banco de dados MySQL
+&gt; Foco em performance, usabilidade e escalabilidade
+&gt; Estrutura preparada para evolução (API + versão web avançada)
 </pre>
 
 <h3>📡 Monitoring + Grafana</h3>
