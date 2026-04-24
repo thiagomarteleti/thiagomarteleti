@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-00FF9C?style=for-the-badge&logo=postgresql&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql">
 <img src="https://img.shields.io/badge/SQLite-00FF9C?style=for-the-badge&logo=sqlite&logoColor=black">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 <br><br>
 
@@ -131,6 +132,12 @@
 
 <p>
 📧 thiago.marteleti@gmail.com
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 <hr>
