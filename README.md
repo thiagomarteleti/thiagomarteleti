@@ -145,7 +145,7 @@
 <h2>⚡ Filosofia</h2>
 
 <pre>
-SELECT 'DBA IS NOT A JOB, IT''S A MISSION';
+DBA IS NOT A JOB, IT''S A MISSION
 </pre>
 
 <br>
